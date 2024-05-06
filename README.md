@@ -1,6 +1,6 @@
 # CE/CZ3004 - Multidisciplinary Project
 
-The scope of this multidisciplinary project is to develop a robotic system with diverse functionalities like maze exploration, discovering the shortest path traversal, navigating obstacles and correctly identifying images. The integration of four knowledge spheres (Android, Algorithms, Raspberry Pi and Arduino) is required to implement the Android Remote Controller module, Maze Exploration and Traversal module, and Mobile Remote module of the robotic system. https://youtu.be/-T9S-SBbvto?feature=shared
+The scope of this multidisciplinary project is to develop a robotic system with diverse functionalities like maze exploration, discovering the shortest path traversal, navigating obstacles and correctly identifying images. The integration of four knowledge spheres (Android, Algorithms, Raspberry Pi and Arduino) is required to implement the Android Remote Controller module, Maze Exploration and Traversal module, and Mobile Remote module of the robotic system. 
 
 <img src="/-assets/WorkBreakdown.png"> 
 
